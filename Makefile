@@ -5,6 +5,6 @@ all:
 
 pub:
 	cd ../zdeneksejcek.github.io && \
-	git add . && \
+	git add --all . && \
 	git commit -m "update" && \
 	git push
