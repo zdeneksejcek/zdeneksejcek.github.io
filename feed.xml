@@ -6,8 +6,8 @@
 </description>
     <link>http://sejcek.cz/</link>
     <atom:link href="http://sejcek.cz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Dec 2014 15:56:51 +1300</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2014 15:56:51 +1300</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2014 16:02:27 +1300</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2014 16:02:27 +1300</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -29,13 +29,11 @@
 
 </description>
         <pubDate>Fri, 12 Dec 2014 02:48:27 +1300</pubDate>
-        <link>http://sejcek.cz/jekyll/update/2014/12/12/welcome-to-jekyll2.html</link>
-        <guid isPermaLink="true">http://sejcek.cz/jekyll/update/2014/12/12/welcome-to-jekyll2.html</guid>
+        <link>http://sejcek.cz/personal/2014/12/12/welcome-to-jekyll2.html</link>
+        <guid isPermaLink="true">http://sejcek.cz/personal/2014/12/12/welcome-to-jekyll2.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>personal</category>
         
       </item>
     
@@ -64,13 +62,11 @@
 
 </description>
         <pubDate>Fri, 12 Dec 2014 02:48:27 +1300</pubDate>
-        <link>http://sejcek.cz/jekyll/update/2014/12/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://sejcek.cz/jekyll/update/2014/12/12/welcome-to-jekyll.html</guid>
+        <link>http://sejcek.cz/personal/2014/12/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://sejcek.cz/personal/2014/12/12/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>personal</category>
         
       </item>
     
